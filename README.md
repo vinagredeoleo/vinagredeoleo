@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é @vinagredeoleo
+- 👍 Meu email de contato é estefani.schimainski.dias@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scrath.
